@@ -1,3 +1,4 @@
 ## Under Construction 
 
-![id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
